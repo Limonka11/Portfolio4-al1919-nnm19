@@ -65,11 +65,11 @@ T4 - Statement on communication method
 Work out how you and your partner are going to communicate,
 then move the `x` below to the appropriate selection:
 
-- [x] We don't have a planned communications method 
-- [ ] Working together in person
+- [ ] We don't have a planned communications method 
+- [x] Working together in person
 - [ ] WhatsApp
 - [ ] WeChat
-- [ ] Skype
+- [x] Skype
 - [ ] Slack
 - [ ] Hangouts
 - [ ] Microsoft Teams
